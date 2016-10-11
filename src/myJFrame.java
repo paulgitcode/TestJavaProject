@@ -16,7 +16,7 @@ public class myJFrame extends JFrame
 		
 
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setSize (850, 450);
+		setSize (900, 450);
 		setVisible(true);
 	}
 
